@@ -1,1 +1,2 @@
 # NYT-Search
+Amanda
