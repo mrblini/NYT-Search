@@ -1,2 +1,2 @@
 # NYT-Search
-Amanda
+Amanda L
