@@ -1,6 +1,7 @@
 # NYT-Search
 
+## Contributor:
+* Megan  
+* Luis  
+* Pablo
 
-##Contributor:
-Megan
-Luis
