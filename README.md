@@ -4,4 +4,6 @@
 * Megan  
 * Luis  
 * Pablo
+* Amanda
+
 
