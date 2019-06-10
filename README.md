@@ -1,6 +1,8 @@
 # NYT-Search
 
-### Participants
-'
-    Pablo
-'
+
+## Contributor:
+* Megan  
+* Luis  
+* Pablo
+
