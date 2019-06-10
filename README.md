@@ -1,1 +1,4 @@
 # NYT-Search
+
+##Contributor:
+Megan
