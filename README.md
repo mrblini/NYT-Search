@@ -1,2 +1,9 @@
 # NYT-Search
-Amanda L
+
+## Contributor:
+* Megan  
+* Luis  
+* Pablo
+* Amanda
+
+
